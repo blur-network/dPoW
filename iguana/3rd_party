@@ -7,7 +7,7 @@
     "149.56.13.160",
     "23.124.56.138",
     "51.222.159.244",
-    "127.0.0.1",
+    "46.105.118.231",
     "127.0.0.1",
     "127.0.0.1",
     "127.0.0.1",
@@ -16,5 +16,6 @@
 "notaries": [
     {"daemonfox_test":  "026b2a11cb90960c59a9d46d2fb31819767af15edcd0b4c32cfb43895d341d8d1e"},
     {"biz_test":        "037db090cbbe154b7e0a0742032208250537e42ad822968cd5419ce5913a4d8afb"},
-    {"biz_testnet2021": "02a9a46aaa33936e3fd4507f24f997ccb053e6d86289abd781ec9ca2677b2bbdaa"}
+    {"biz_testnet2021": "02a9a46aaa33936e3fd4507f24f997ccb053e6d86289abd781ec9ca2677b2bbdaa"},
+    {"metaphilibert": "0271298c7b958721bada560ae41b8ab62be8737c9c2cbc70bb1981f680a76956dc"}
 ]}
